@@ -75,38 +75,37 @@ Busco oportunidades de estágio e desenvolvimento profissional em áreas relacio
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 ### Linguagens
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Banco de Dados
+### Dados e BI
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Automação e IA
+
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Desenvolvimento e DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Ferramentas
+### Gestão e Design
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma" />
-</p>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-- Power BI
-- N8N
-- Trello
-- BPMN
-- Gemini AI
-
+---
 ---
 
 # 📂 Portfólio
