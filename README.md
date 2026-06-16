@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou Maria Luiza 👋
 
-<!--
-**marialuiza-mdealcantara/marialuiza-mdealcantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação na Faculdade Impacta
 
-Here are some ideas to get you started:
+💡 Áreas de interesse:
+- Inteligência Artificial
+- Análise de Dados
+- Automação de Processos
+- Business Intelligence
+- Gestão de Projetos
+- Transformação Digital
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente estudando:
+- Python para Dados
+- SQL
+- Power BI
+- BPMN
+- IA Generativa
+
+🛠 Tecnologias:
+Python | SQL | Power BI | Git | GitHub | Docker | MongoDB | N8N
+
+📂 Portfólio
+
+- 📊 Data Analysis Projects
+- 📈 Power BI Dashboards
+- 🤖 AI Projects
+- ⚙️ Process Automation
+- 🔄 Business Process Mapping
+
+📫 Conecte-se comigo:
+LinkedIn: [[https://www.linkedin.com/in/maria-luiza-moreira-de-alcantara-a3b471378/]]
