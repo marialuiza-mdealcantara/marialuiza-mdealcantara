@@ -110,33 +110,6 @@ Busco oportunidades de estágio e desenvolvimento profissional em áreas relacio
 
 # 📂 Portfólio
 
-## 📊 Data Analytics Portfolio
-
-Projetos de análise de dados utilizando Python, SQL e bases de dados públicas para geração de insights e apoio à tomada de decisão.
-
----
-
-## 📈 Business Intelligence Portfolio
-
-Dashboards desenvolvidos em Power BI com foco em indicadores estratégicos, KPIs e visualização de dados.
-
----
-
-## ⚙️ Process Automation Portfolio
-
-Automações utilizando APIs, N8N e Inteligência Artificial para otimização de processos empresariais.
-
----
-
-## 🤖 Artificial Intelligence Portfolio
-
-Projetos envolvendo IA Generativa, LLMs, Engenharia de Prompt e aplicações corporativas.
-
----
-
-## 🔄 Business Process Management Portfolio
-
-Mapeamento e melhoria de processos utilizando BPMN, análise de gargalos e propostas de otimização.
 
 ---
 
