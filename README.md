@@ -122,6 +122,8 @@ O sistema foi pensado para trabalhar com **Mercado Livre, OLX e Enjoei**, reduzi
 
 ## 📚 O que estou estudando
 
+## 📚 O que estou estudando
+
 <table width="100%">
 <tr>
 
@@ -129,12 +131,12 @@ O sistema foi pensado para trabalhar com **Mercado Livre, OLX e Enjoei**, reduzi
 
 ### 🔎 Atualmente
 
-📌 **Python**  
-📌 **SQL & Banco de Dados**  
-📌 **Inteligência Artificial**  
-📌 **Automação de Processos**  
-📌 **Análise de Dados**  
-📌 **Desenvolvimento de APIs**
+![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white)
+![SQL & Banco de Dados](https://img.shields.io/badge/SQL%20%26%20Banco%20de%20Dados-2563EB?style=flat-square)
+![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-2563EB?style=flat-square)
+![Automação de Processos](https://img.shields.io/badge/Automação%20de%20Processos-2563EB?style=flat-square)
+![Análise de Dados](https://img.shields.io/badge/Análise%20de%20Dados-2563EB?style=flat-square)
+![Desenvolvimento de APIs](https://img.shields.io/badge/Desenvolvimento%20de%20APIs-2563EB?style=flat-square)
 
 </td>
 
@@ -142,15 +144,17 @@ O sistema foi pensado para trabalhar com **Mercado Livre, OLX e Enjoei**, reduzi
 
 ### 🎯 Próximos passos
 
-📊 **Aprofundar Power BI**  
-🤖 **Criar projetos com IA e automação**  
-📈 **Evoluir em Dados & Analytics**  
-🏗️ **Aprofundar arquitetura de sistemas**
+![Power BI](https://img.shields.io/badge/Aprofundar%20Power%20BI-2563EB?style=flat-square)
+![IA e Automação](https://img.shields.io/badge/Criar%20projetos%20com%20IA%20e%20automação-2563EB?style=flat-square)
+![Dados & Analytics](https://img.shields.io/badge/Evoluir%20em%20Dados%20%26%20Analytics-2563EB?style=flat-square)
+![Arquitetura](https://img.shields.io/badge/Aprofundar%20arquitetura%20de%20sistemas-2563EB?style=flat-square)
 
 </td>
 
 </tr>
 </table>
+
+---
 
 ---
 ---
