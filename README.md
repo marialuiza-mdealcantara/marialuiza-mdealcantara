@@ -1,145 +1,169 @@
 <div align="center">
 
-# 👋 Olá, eu sou Maria Luiza Moreira
+# 👋 Oi, eu sou Maria Luiza!
 
-### 🎓 Estudante de Sistemas de Informação • Dados • IA • Automação • Processos
+### 🎓 Sistemas de Informação • 💻 Tecnologia • 📊 Dados • 🤖 IA • ⚙️ Automação
 
-💡 Construindo soluções que conectam **tecnologia, dados e negócios**
+**Transformando tecnologia em soluções para problemas reais.**
 
 <br>
 
-<a href="https://www.linkedin.com/in/maria-luiza-moreira-de-alcantara-a3b471378/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://github.com/marialuiza-mdealcantara">
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+<a href="https://www.linkedin.com/in/maria-luiza-moreira-de-alcantara-a3b471378/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="mailto:marialuiza.mdealcantara@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/marialuiza-mdealcantara" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-# 🚀 Sobre Mim
+## 💜 Sobre mim
 
-Sou estudante de **Sistemas de Informação** na **Faculdade Impacta de Tecnologia**, apaixonada por inovação, análise de dados e inteligência artificial.
+🎓 Estudante de **Sistemas de Informação na Faculdade Impacta de Tecnologia**, construindo minha formação na área de tecnologia e buscando unir **desenvolvimento, dados, inteligência artificial e negócios**.
 
-Atualmente direciono minha formação para áreas que unem tecnologia e estratégia de negócios, desenvolvendo projetos voltados para:
+💡 Gosto de entender um problema, organizar o processo e transformar a necessidade em uma **solução tecnológica prática**.
 
-- 📊 Análise de Dados
+🚀 Atualmente, meu foco está no desenvolvimento de projetos que me permitam colocar em prática o que estudo e construir um portfólio baseado em **projetos reais**, não apenas em cursos.
+
+---
+
+## 🚀 Projeto em destaque
+
+### 📦 Sistema de Gestão de Vendas
+
+> **Um sistema desenvolvido para um negócio real da minha família.**
+
+O projeto tem como objetivo centralizar e automatizar a gestão de:
+
+📦 **Produtos** → 🏷️ **Estoque** → 📢 **Anúncios** → 🚀 **Publicações** → 💰 **Vendas**
+
+O sistema foi pensado para trabalhar com **Mercado Livre, OLX e Enjoei**, reduzindo controles manuais e organizando o processo de venda.
+
+### 🛠️ Tecnologias utilizadas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+🔗 **[Conheça o projeto →](https://github.com/marialuiza-mdealcantara/sistema-gestao-vendas)**
+
+---
+
+## 🧠 Áreas que estou construindo
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 Dados & IA
+
+- 📈 Análise de Dados
 - 🤖 Inteligência Artificial
-- ⚙️ Automação de Processos
-- 📈 Business Intelligence
-- 🔄 Gestão e Melhoria de Processos
+- ✨ IA Generativa
+- 🔌 APIs
+- ⚙️ Automação
+- 📊 Business Intelligence
+
+</td>
+<td width="50%">
+
+### 📐 Sistemas & Processos
+
+- 🧩 UML
+- 🏗️ Modelagem de Sistemas
+- 🔄 Modelagem de Processos
 - 📋 Gestão de Projetos
-- 🌐 Transformação Digital
+- 💻 Desenvolvimento de Software
 
-Meu objetivo é utilizar tecnologia para transformar dados em decisões, automatizar tarefas e gerar impacto real dentro das organizações.
-
----
-
-# 🎯 Objetivo Profissional
-
-Busco oportunidades de estágio e desenvolvimento profissional em áreas relacionadas a:
-
-✔️ Dados e Analytics
-
-✔️ Business Intelligence
-
-✔️ Inteligência Artificial
-
-✔️ Automação de Processos
-
-✔️ Gestão de Projetos
-
-✔️ Transformação Digital
-
-✔️ Inovação Tecnológica
+</td>
+</tr>
+</table>
 
 ---
 
-# 📚 Atualmente Estudando
+## 🛠️ Tecnologias & ferramentas
 
-- Python para Análise de Dados
-- SQL
-- Power BI
-- BPMN
-- Engenharia de Prompt
-- IA Generativa
-- Automação com APIs
-- Business Intelligence
+### 💻 Desenvolvimento
 
----
+`Python` `SQL` `FastAPI` `PostgreSQL` `Git` `GitHub`
 
-## 🛠️ Tecnologias e Ferramentas
+### 🤖 IA & Automação
 
-### Linguagens
+`IA Generativa` `APIs` `n8n`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### 📊 Dados
 
-### Dados e BI
+`SQL` `Análise de Dados` `Business Intelligence`
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 📐 Modelagem & Gestão
 
-### Automação e IA
+`UML` `Modelagem de Sistemas` `Modelagem de Processos` `Trello`
 
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### 🎨 Design
 
-### Desenvolvimento e DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Gestão e Design
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
----
----
-
-# 📂 Portfólio
-
+`Figma`
 
 ---
 
-# 🌱 Próximos Passos
+## 📚 O que estou estudando
 
-- Obter certificações em Dados e IA
-- Desenvolver projetos com Power BI
-- Construir soluções com IA Generativa
-- Aprofundar conhecimentos em SQL e Python
-- Explorar aplicações de IA para negócios
-- Evoluir em Gestão de Processos e BPMN
+🐍 **Python**  
+🗄️ **SQL & Banco de Dados**  
+🤖 **Inteligência Artificial**  
+⚙️ **Automação de Processos**  
+📊 **Análise de Dados**  
+🔌 **Desenvolvimento de APIs**
+
+### 🎯 Próximos passos
+
+📊 Aprofundar **Power BI**  
+🤖 Criar mais projetos envolvendo **IA e automação**  
+📈 Evoluir em **Dados e Analytics**  
+🏗️ Aprofundar **arquitetura e desenvolvimento de sistemas**
 
 ---
 
-# 📫 Contato
+## 🌱 Como estou construindo meu portfólio
 
-📧 **Email:** marialuiza.mdealcantara@gmail.com
+Meu portfólio acompanha minha evolução na graduação e nos projetos que desenvolvo.
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/maria-luiza-moreira-de-alcantara-a3b471378/
+A ideia não é apenas listar tecnologias, mas mostrar **o que consigo construir com elas**.
 
-🐙 **GitHub:**  
-https://github.com/marialuiza-mdealcantara
+> 💡 **Aprender → aplicar → construir → documentar → evoluir.**
+
+---
+
+## 💼 Objetivo profissional
+
+Busco oportunidades de estágio e desenvolvimento profissional em áreas que conectem:
+
+**📊 Dados** • **🤖 IA** • **⚙️ Automação** • **💻 Tecnologia** • **📋 Projetos** • **🔄 Processos**
+
+Quero trabalhar em ambientes onde eu possa **aprender continuamente, resolver problemas e transformar necessidades de negócio em soluções tecnológicas.**
 
 ---
 
 <div align="center">
 
-### ⭐ Obrigada pela visita ao meu perfil!
+### 💜 Vamos construir algo?
 
-Sempre aberta para networking, aprendizado e novas oportunidades.
+<a href="mailto:marialuiza.mdealcantara@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/maria-luiza-moreira-de-alcantara-a3b471378/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+⭐ Obrigada por visitar meu perfil!
 
 </div>
