@@ -96,25 +96,19 @@ O sistema foi pensado para trabalhar com **Mercado Livre, OLX e Enjoei**, reduzi
 
 ### 💻 Desenvolvimento
 
-`Python` `SQL` `FastAPI` `PostgreSQL` `Git` `GitHub`
+[![Tecnologias](https://skillicons.dev/icons?i=python,fastapi,postgresql,git,github)](https://skillicons.dev)
 
 ### 🤖 IA & Automação
 
-`IA Generativa` `APIs` `n8n`
+[![Tecnologias](https://skillicons.dev/icons?i=n8n)](https://skillicons.dev)
 
 ### 📊 Dados
 
-`SQL` `Análise de Dados` `Business Intelligence`
-
-### 📐 Modelagem & Gestão
-
-`UML` `Modelagem de Sistemas` `Modelagem de Processos` `Trello`
+[![Tecnologias](https://skillicons.dev/icons?i=sql,mongodb)](https://skillicons.dev)
 
 ### 🎨 Design
 
-`Figma`
-
----
+[![Tecnologias](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ## 📚 O que estou estudando
 
