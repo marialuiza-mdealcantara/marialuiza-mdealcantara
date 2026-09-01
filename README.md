@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/maria-luiza-moreira-de-alcantara-a3b471378/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:marialuiza.mdealcantara@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=marialuiza.mdealcantara@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -155,7 +155,7 @@ Quero trabalhar em ambientes onde eu possa **aprender continuamente, resolver pr
 
 ### 💜 Vamos construir algo?
 
-<a href="mailto:marialuiza.mdealcantara@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=marialuiza.mdealcantara@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/maria-luiza-moreira-de-alcantara-a3b471378/">
