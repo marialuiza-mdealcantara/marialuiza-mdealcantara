@@ -118,21 +118,39 @@ O sistema foi pensado para trabalhar com **Mercado Livre, OLX e Enjoei**, reduzi
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
 ## 📚 O que estou estudando
 
-🐍 **Python**  
-🗄️ **SQL & Banco de Dados**  
-🤖 **Inteligência Artificial**  
-⚙️ **Automação de Processos**  
-📊 **Análise de Dados**  
-🔌 **Desenvolvimento de APIs**
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔎 Atualmente
+
+📌 **Python**  
+📌 **SQL & Banco de Dados**  
+📌 **Inteligência Artificial**  
+📌 **Automação de Processos**  
+📌 **Análise de Dados**  
+📌 **Desenvolvimento de APIs**
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🎯 Próximos passos
 
-📊 Aprofundar **Power BI**  
-🤖 Criar mais projetos envolvendo **IA e automação**  
-📈 Evoluir em **Dados e Analytics**  
-🏗️ Aprofundar **arquitetura e desenvolvimento de sistemas**
+📊 **Aprofundar Power BI**  
+🤖 **Criar projetos com IA e automação**  
+📈 **Evoluir em Dados & Analytics**  
+🏗️ **Aprofundar arquitetura de sistemas**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
