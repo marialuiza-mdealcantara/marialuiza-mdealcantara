@@ -154,9 +154,7 @@ O sistema foi pensado para trabalhar com **Mercado Livre, OLX e Enjoei**, reduzi
 </tr>
 </table>
 
----
 
----
 ---
 
 ## 🌱 Como estou construindo meu portfólio
