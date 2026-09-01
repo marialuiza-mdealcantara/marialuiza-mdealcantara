@@ -96,19 +96,23 @@ O sistema foi pensado para trabalhar com **Mercado Livre, OLX e Enjoei**, reduzi
 
 ### 💻 Desenvolvimento
 
-[![Tecnologias](https://skillicons.dev/icons?i=python,fastapi,postgresql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgresql,git,github)](https://skillicons.dev)
 
 ### 🤖 IA & Automação
 
-[![Tecnologias](https://skillicons.dev/icons?i=n8n)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,n8n)](https://skillicons.dev)
 
 ### 📊 Dados
 
-[![Tecnologias](https://skillicons.dev/icons?i=sql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb)](https://skillicons.dev)
+
+### 📐 Modelagem & Gestão
+
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ### 🎨 Design
 
-[![Tecnologias](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ## 📚 O que estou estudando
 
