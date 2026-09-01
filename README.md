@@ -122,8 +122,6 @@ O sistema foi pensado para trabalhar com **Mercado Livre, OLX e Enjoei**, reduzi
 
 ## 📚 O que estou estudando
 
-## 📚 O que estou estudando
-
 <table width="100%">
 <tr>
 
