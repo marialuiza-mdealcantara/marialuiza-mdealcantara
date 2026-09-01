@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Oi, eu sou Maria Luiza!
+# 👋 Oi, eu sou a Maria Luiza!
 
 ### 🎓 Sistemas de Informação • 💻 Tecnologia • 📊 Dados • 🤖 IA • ⚙️ Automação
 
