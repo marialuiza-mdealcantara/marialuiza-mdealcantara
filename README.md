@@ -61,29 +61,32 @@ O sistema foi pensado para trabalhar com **Mercado Livre, OLX e Enjoei**, reduzi
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 📊 Dados & IA
 
-- 📈 Análise de Dados
-- 🤖 Inteligência Artificial
-- ✨ IA Generativa
-- 🔌 APIs
-- ⚙️ Automação
-- 📊 Business Intelligence
+![Análise de Dados](https://img.shields.io/badge/Análise%20de%20Dados-6C63FF?style=flat-square)
+![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-7C4DFF?style=flat-square)
+![IA Generativa](https://img.shields.io/badge/IA%20Generativa-A855F7?style=flat-square)
+![APIs](https://img.shields.io/badge/APIs-9333EA?style=flat-square)
+![Automação](https://img.shields.io/badge/Automação-8B5CF6?style=flat-square)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-6366F1?style=flat-square)
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 📐 Sistemas & Processos
 
-- 🧩 UML
-- 🏗️ Modelagem de Sistemas
-- 🔄 Modelagem de Processos
-- 📋 Gestão de Projetos
-- 💻 Desenvolvimento de Software
+![UML](https://img.shields.io/badge/UML-6C63FF?style=flat-square)
+![Modelagem de Sistemas](https://img.shields.io/badge/Modelagem%20de%20Sistemas-7C4DFF?style=flat-square)
+![Modelagem de Processos](https://img.shields.io/badge/Modelagem%20de%20Processos-A855F7?style=flat-square)
+![Gestão de Projetos](https://img.shields.io/badge/Gestão%20de%20Projetos-9333EA?style=flat-square)
+![Desenvolvimento de Software](https://img.shields.io/badge/Desenvolvimento%20de%20Software-8B5CF6?style=flat-square)
 
 </td>
+
 </tr>
 </table>
 
