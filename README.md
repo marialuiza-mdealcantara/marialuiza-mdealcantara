@@ -66,12 +66,12 @@ O sistema foi pensado para trabalhar com **Mercado Livre, OLX e Enjoei**, reduzi
 
 ### 📊 Dados & IA
 
-![Análise de Dados](https://img.shields.io/badge/Análise%20de%20Dados-6C63FF?style=flat-square)
-![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-7C4DFF?style=flat-square)
-![IA Generativa](https://img.shields.io/badge/IA%20Generativa-A855F7?style=flat-square)
-![APIs](https://img.shields.io/badge/APIs-9333EA?style=flat-square)
-![Automação](https://img.shields.io/badge/Automação-8B5CF6?style=flat-square)
-![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-6366F1?style=flat-square)
+![Análise de Dados](https://img.shields.io/badge/Análise%20de%20Dados-2563EB?style=flat-square&logoColor=white)
+![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-3B82F6?style=flat-square&logoColor=white)
+![IA Generativa](https://img.shields.io/badge/IA%20Generativa-60A5FA?style=flat-square&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-2563EB?style=flat-square&logoColor=white)
+![Automação](https://img.shields.io/badge/Automação-3B82F6?style=flat-square&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-1D4ED8?style=flat-square&logoColor=white)
 
 </td>
 
@@ -79,11 +79,11 @@ O sistema foi pensado para trabalhar com **Mercado Livre, OLX e Enjoei**, reduzi
 
 ### 📐 Sistemas & Processos
 
-![UML](https://img.shields.io/badge/UML-6C63FF?style=flat-square)
-![Modelagem de Sistemas](https://img.shields.io/badge/Modelagem%20de%20Sistemas-7C4DFF?style=flat-square)
-![Modelagem de Processos](https://img.shields.io/badge/Modelagem%20de%20Processos-A855F7?style=flat-square)
-![Gestão de Projetos](https://img.shields.io/badge/Gestão%20de%20Projetos-9333EA?style=flat-square)
-![Desenvolvimento de Software](https://img.shields.io/badge/Desenvolvimento%20de%20Software-8B5CF6?style=flat-square)
+![UML](https://img.shields.io/badge/UML-2563EB?style=flat-square&logoColor=white)
+![Modelagem de Sistemas](https://img.shields.io/badge/Modelagem%20de%20Sistemas-3B82F6?style=flat-square&logoColor=white)
+![Modelagem de Processos](https://img.shields.io/badge/Modelagem%20de%20Processos-60A5FA?style=flat-square&logoColor=white)
+![Gestão de Projetos](https://img.shields.io/badge/Gestão%20de%20Projetos-2563EB?style=flat-square&logoColor=white)
+![Desenvolvimento de Software](https://img.shields.io/badge/Desenvolvimento%20de%20Software-1D4ED8?style=flat-square&logoColor=white)
 
 </td>
 
