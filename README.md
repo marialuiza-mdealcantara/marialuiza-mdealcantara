@@ -122,10 +122,9 @@ O sistema foi pensado para trabalhar com **Mercado Livre, OLX e Enjoei**, reduzi
 
 ## 📚 O que estou estudando
 
-<table width="100%">
+<table>
 <tr>
-
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
 ### 🔎 Atualmente
 
@@ -138,7 +137,7 @@ O sistema foi pensado para trabalhar com **Mercado Livre, OLX e Enjoei**, reduzi
 
 </td>
 
-<td width="45%" valign="top">
+<td width="40%" valign="top">
 
 ### 🎯 Próximos passos
 
@@ -148,7 +147,6 @@ O sistema foi pensado para trabalhar com **Mercado Livre, OLX e Enjoei**, reduzi
 🏗️ **Aprofundar arquitetura de sistemas**
 
 </td>
-
 </tr>
 </table>
 
