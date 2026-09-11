@@ -4,7 +4,7 @@
 
 ### 🎓 Sistemas de Informação • 💻 Tecnologia • 📊 Dados • 🤖 IA • ⚙️ Automação
 
-**Transformando tecnologia em soluções para problemas reais.**
+**Transformando problemas reais em soluções tecnológicas.**
 
 <br>
 
@@ -14,8 +14,8 @@
 <a href="https://www.linkedin.com/in/maria-luiza-moreira-de-alcantara-a3b471378/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=marialuiza.mdealcantara@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:marialuiza.mdealcantara@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -24,71 +24,49 @@
 
 ## 💜 Sobre mim
 
-🎓 Estudante de **Sistemas de Informação na Faculdade Impacta de Tecnologia**, construindo minha formação na área de tecnologia e buscando unir **desenvolvimento, dados, inteligência artificial e negócios**.
+🎓 Estudante de **Sistemas de Informação na Faculdade Impacta de Tecnologia**.
 
-💡 Gosto de entender um problema, organizar o processo e transformar a necessidade em uma **solução tecnológica prática**.
+💡 Tenho interesse em conectar **tecnologia, dados, IA, automação e processos** para criar soluções que resolvam problemas reais.
 
-🚀 Atualmente, meu foco está no desenvolvimento de projetos que me permitam colocar em prática o que estudo e construir um portfólio baseado em **projetos reais**, não apenas em cursos.
+🚀 Meu portfólio é construído principalmente através de **projetos práticos**, colocando em aplicação o que estudo.
 
 ---
 
 ## 🚀 Projeto em destaque
 
-### 📦 Sistema de Gestão de Vendas
+### 📦 Inventory System
 
-> **Um sistema desenvolvido para um negócio real da minha família.**
+Sistema de gerenciamento de produtos desenvolvido como **projeto real e laboratório de aprendizado**.
 
-O projeto tem como objetivo centralizar e automatizar a gestão de:
+Atualmente estou no **Módulo 04 — Persistência JSON**, construindo a camada de persistência e CRUD da aplicação.
 
-📦 **Produtos** → 🏷️ **Estoque** → 📢 **Anúncios** → 🚀 **Publicações** → 💰 **Vendas**
+**Arquitetura:**  
+📱 SwiftUI → 🌐 FastAPI → 🐍 Python → 📄 JSON → ☁️ Google Drive
 
-O sistema foi pensado para trabalhar com **Mercado Livre, OLX e Enjoei**, reduzindo controles manuais e organizando o processo de venda.
+🔗 **[Ver projeto no GitHub →](https://github.com/marialuiza-mdealcantara/inventory-system)**
 
-### 🛠️ Tecnologias utilizadas
+### 🛠️ Tecnologias do projeto
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-🔗 **[Conheça o projeto →](https://github.com/marialuiza-mdealcantara/sistema-gestao-vendas)**
 
 ---
 
-## 🧠 Áreas que estou construindo
+## 🧠 Áreas de interesse
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 📊 Dados & IA
-
-![Análise de Dados](https://img.shields.io/badge/Análise%20de%20Dados-2563EB?style=flat-square&logoColor=white)
-![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-3B82F6?style=flat-square&logoColor=white)
-![IA Generativa](https://img.shields.io/badge/IA%20Generativa-60A5FA?style=flat-square&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-2563EB?style=flat-square&logoColor=white)
-![Automação](https://img.shields.io/badge/Automação-3B82F6?style=flat-square&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-1D4ED8?style=flat-square&logoColor=white)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📐 Sistemas & Processos
-
-![UML](https://img.shields.io/badge/UML-2563EB?style=flat-square&logoColor=white)
-![Modelagem de Sistemas](https://img.shields.io/badge/Modelagem%20de%20Sistemas-3B82F6?style=flat-square&logoColor=white)
-![Modelagem de Processos](https://img.shields.io/badge/Modelagem%20de%20Processos-60A5FA?style=flat-square&logoColor=white)
-![Gestão de Projetos](https://img.shields.io/badge/Gestão%20de%20Projetos-2563EB?style=flat-square&logoColor=white)
-![Desenvolvimento de Software](https://img.shields.io/badge/Desenvolvimento%20de%20Software-1D4ED8?style=flat-square&logoColor=white)
-
-</td>
-
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dados](https://img.shields.io/badge/Dados-2563EB?style=for-the-badge&logoColor=white)
+![IA](https://img.shields.io/badge/Inteligência%20Artificial-3B82F6?style=for-the-badge&logoColor=white)
+![Automação](https://img.shields.io/badge/Automação-60A5FA?style=for-the-badge&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-2563EB?style=for-the-badge&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-1D4ED8?style=for-the-badge&logoColor=white)
+![Processos](https://img.shields.io/badge/Processos-3B82F6?style=for-the-badge&logoColor=white)
+![Sistemas](https://img.shields.io/badge/Engenharia%20de%20Sistemas-2563EB?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -98,21 +76,18 @@ O sistema foi pensado para trabalhar com **Mercado Livre, OLX e Enjoei**, reduzi
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🤖 IA & Automação
+### 📊 Dados & Automação
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-### 📊 Dados
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🎨 Design
 
@@ -120,58 +95,23 @@ O sistema foi pensado para trabalhar com **Mercado Livre, OLX e Enjoei**, reduzi
 
 ---
 
-## 📚 O que estou estudando
+## 📚 Atualmente estudando
 
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔎 Atualmente
-
-![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white)
-![SQL & Banco de Dados](https://img.shields.io/badge/SQL%20%26%20Banco%20de%20Dados-2563EB?style=flat-square)
-![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-2563EB?style=flat-square)
-![Automação de Processos](https://img.shields.io/badge/Automação%20de%20Processos-2563EB?style=flat-square)
-![Análise de Dados](https://img.shields.io/badge/Análise%20de%20Dados-2563EB?style=flat-square)
-![Desenvolvimento de APIs](https://img.shields.io/badge/Desenvolvimento%20de%20APIs-2563EB?style=flat-square)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎯 Próximos passos
-
-![Power BI](https://img.shields.io/badge/Aprofundar%20Power%20BI-2563EB?style=flat-square)
-![IA e Automação](https://img.shields.io/badge/Criar%20projetos%20com%20IA%20e%20automação-2563EB?style=flat-square)
-![Dados & Analytics](https://img.shields.io/badge/Evoluir%20em%20Dados%20%26%20Analytics-2563EB?style=flat-square)
-![Arquitetura](https://img.shields.io/badge/Aprofundar%20arquitetura%20de%20sistemas-2563EB?style=flat-square)
-
-</td>
-
-</tr>
-</table>
-
-
----
-
-## 🌱 Como estou construindo meu portfólio
-
-Meu portfólio acompanha minha evolução na graduação e nos projetos que desenvolvo.
-
-A ideia não é apenas listar tecnologias, mas mostrar **o que consigo construir com elas**.
-
-> 💡 **Aprender → aplicar → construir → documentar → evoluir.**
+🐍 **Python & APIs**  
+📊 **Dados & Business Intelligence**  
+🤖 **Inteligência Artificial**  
+⚙️ **Automação de processos**  
+🏗️ **Arquitetura e desenvolvimento de sistemas**
 
 ---
 
 ## 💼 Objetivo profissional
 
-Busco oportunidades de estágio e desenvolvimento profissional em áreas que conectem:
+Busco oportunidades de **estágio em tecnologia**, especialmente em áreas que conectem:
 
-**📊 Dados** • **🤖 IA** • **⚙️ Automação** • **💻 Tecnologia** • **📋 Projetos** • **🔄 Processos**
+**📊 Dados • 🤖 IA • ⚙️ Automação • 💻 Tecnologia • 📋 Projetos • 🔄 Processos**
 
-Quero trabalhar em ambientes onde eu possa **aprender continuamente, resolver problemas e transformar necessidades de negócio em soluções tecnológicas.**
+Quero aprender continuamente, resolver problemas e transformar necessidades de negócio em **soluções tecnológicas práticas**.
 
 ---
 
@@ -179,7 +119,7 @@ Quero trabalhar em ambientes onde eu possa **aprender continuamente, resolver pr
 
 ### 💜 Vamos construir algo?
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=marialuiza.mdealcantara@gmail.com" target="_blank">
+<a href="mailto:marialuiza.mdealcantara@gmail.com">
   <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/maria-luiza-moreira-de-alcantara-a3b471378/">
