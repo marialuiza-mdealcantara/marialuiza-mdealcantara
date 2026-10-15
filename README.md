@@ -77,8 +77,6 @@ A arquitetura planejada contempla um aplicativo para iOS em **SwiftUI**, um back
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Xano](https://img.shields.io/badge/Xano-FF6D00?style=flat&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-7B61FF?style=flat&logoColor=white)
 
 ### Ferramentas e colaboração
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -109,16 +107,21 @@ A arquitetura planejada contempla um aplicativo para iOS em **SwiftUI**, um back
 
 ---
 
-## 📫 Contato
+## 📫 Vamos nos conectar?
 
-- **LinkedIn:** [meu perfil](https://www.linkedin.com/)
-- **E-mail:** [SEU_EMAIL](mailto:SEU_EMAIL)
-- **GitHub:** [@marialuiza-mdealcantara](https://github.com/marialuiza-mdealcantara)
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_AQUI_SEU_LINKEDIN)
+[![E-mail](https://img.shields.io/badge/E--mail-Enviar%20mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-Meus%20projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marialuiza-mdealcantara)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Obrigada por visitar meu perfil! Vamos conectar tecnologia a soluções que fazem a diferença.* ✨
+**Obrigada por visitar meu perfil!**  
+*Tecnologia, dados e automação para transformar problemas reais em soluções.*
 
 </div>
